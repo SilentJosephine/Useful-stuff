@@ -1,4 +1,4 @@
-# My useful Resources
+# My Useful Resources
 
 A collection of useful tools and projects I've found.
 (Still in the makings)
