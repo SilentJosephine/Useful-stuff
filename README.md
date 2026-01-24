@@ -36,4 +36,5 @@ A collection of useful tools and projects I've found.
 
 
 ## Hackathon Organizing Stack (First one by Brentan Rath!)
-- [Backend: AirTable](https://airtable.com) - Works for handling user data, can be used as a database, send emails, take in infomation and hooks into everything. Much more readable then an SQL Db.
+#### This is what I have used to run 4 successful events! Now you can as well, I normaly share this for my paid mentoring service but here it is lmao!
+- [Backend: AirTable](https://airtable.com) - Works for handling user data, can be used as a database, send emails, take in infomation and hooks into everything. Much more readable then an SQL database.
