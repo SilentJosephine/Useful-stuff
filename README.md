@@ -34,3 +34,6 @@ A collection of useful tools and projects I've found.
 - [AlternativeTo](https://alternativeto.net) - A user Driven site to find alternative apps
 - [TuxMate](https://tuxmate.com) - Linux Bulk App Installer
 
+
+## Hackathon Organizing Stack (First one by Brentan Rath!)
+- [Backend: AirTable](https://airtable.com) - Works for handling user data, can be used as a database, send emails, take in infomation and hooks into everything. Much more readable then an SQL Db.
