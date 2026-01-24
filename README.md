@@ -22,6 +22,9 @@ A collection of useful tools and projects I've found.
 - [Vivaldi](https://vivaldi.com) - A Powerful web browser made by the orginal devs of Opera (Closed Source)
 - [Firefox](https://www.firefox.com/en-US/?utm_campaign=SET_DEFAULT_BROWSER) - Privacy-focused open source browser from Mozilla (Open source)
 - [ZenBroswer](https://zen-browser.app/?utm_source=openalternative.co) - Privacy-focused browser based off Morizilla with a unique ui design (Open Source)
+- [Floorp](https://floorp.app) - Highly customizable, productivity-focused Japanese fork of Firefox that combines a flexible user interface with power-user features like vertical tabs and split-screen browsing.
+- [LibreWolf](https://librewolf.net) - LibreWolf is a privacy-hardened fork of Firefox designed to provide maximum security and anonymity by stripping out all telemetry, ads, and tracking features right out of the box.
+
 
 
 
