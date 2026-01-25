@@ -4,19 +4,21 @@ A collection of useful tools and projects I've found.
 (Still in the makings)
 
 ## Selfhosted
-
 - [Proxmox](https://www.proxmox.com/) - Virtualization platform
 - [Portainer](https://www.portainer.io/) - Docker management GUI
 - [Jellyfin](https://jellyfin.org/) - Free Software Media System
 - [prowlarr](https://prowlarr.com) - Indexer manager/proxy
 - [Jackett](https://github.com/Jackett/Jackett) - Another Indexer/proxy
 - [Servarr](https://wiki.servarr.com) - consolidated wiki for Lidarr, Prowlarr, Radarr, Readarr, Sonarr, and Whisparr
-- 
 
 ## Software
-
 - [Obsidian](https://obsidian.md/) - Note-taking with linked notes (Closed Source)
-- [NotebookLM](https://notebooklm.google.com/) - AI-powered note tool (Closed Source) 
+- [NotebookLM](https://notebooklm.google.com/) - AI-powered note tool (Closed Source)
+- [Metrolist](https://github.com/mostafaalagamy/Metrolist) - YouTube Music client for Android (Open source)
+- [F-Droid](https://f-droid.org) - FOSS app distribution ecosystem for Android (Open Source)
+- [AntennaPod](https://antennapod.org) - A Podcast Player (Open Source)
+- [Fossify](https://www.fossify.org) - Foss Android Sweep (Open source)
+- [Open Camera](https://opencamera.org.uk) - A Powerful camera app for Android (Open Source)
 
 ### Browsers
 - [Vivaldi](https://vivaldi.com) - A Powerful web browser made by the orginal devs of Opera (Closed Source)
@@ -30,7 +32,6 @@ A collection of useful tools and projects I've found.
 
 
 ## Resources/Links
-
 - [Anime Piracy Index](https://theindex.moe) - A wonderful place to find tools and *legal* streaming sites
 - [Megathread Piracy](https://old.reddit.com/r/Piracy/wiki/megathread) - Another Greate resource for torrent sites, Tools, And Information of all sorts
 - [Privacyguides.org](https://www.privacyguides.org/en/) - A greate resource of Privacy Tools and Information
