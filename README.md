@@ -26,17 +26,16 @@ A collection of useful tools and projects I've found.
 - [ZenBroswer](https://zen-browser.app/?utm_source=openalternative.co) - Privacy-focused browser based off Morizilla with a unique ui design (Open Source)
 - [Floorp](https://floorp.app) - Highly customizable, productivity-focused Japanese fork of Firefox that combines a flexible user interface with power-user features like vertical tabs and split-screen browsing. (Open Source)
 - [LibreWolf](https://librewolf.net) - LibreWolf is a privacy-hardened fork of Firefox designed to provide maximum security and anonymity by stripping out all telemetry, ads, and tracking features right out of the box. (Open Source)
-
-
-
-
-
+  
 ## Resources/Links
 - [Anime Piracy Index](https://theindex.moe) - A wonderful place to find tools and *legal* streaming sites
 - [Megathread Piracy](https://old.reddit.com/r/Piracy/wiki/megathread) - Another Greate resource for torrent sites, Tools, And Information of all sorts
 - [Privacyguides.org](https://www.privacyguides.org/en/) - A greate resource of Privacy Tools and Information
 - [AlternativeTo](https://alternativeto.net) - A user Driven site to find alternative apps
 - [TuxMate](https://tuxmate.com) - Linux Bulk App Installer
+- [Mas](https://github.com/massgravel/Microsoft-Activation-Scripts) - About
+Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+
 
 
 ## Event/Hackathon Organizing Stack
