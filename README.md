@@ -36,6 +36,12 @@ A collection of useful tools and projects I've found.
 - [Mas](https://github.com/massgravel/Microsoft-Activation-Scripts) - About
 Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
+### Windows Debloat Script
+- https://megsystem.github.io/DebloaterTool/
+- https://github.com/ChrisTitusTech/winutil
+- https://github.com/Raphire/Win11Debloat
+
+
 
 
 ## Event/Hackathon Organizing Stack
