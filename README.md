@@ -51,4 +51,10 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Onl
 - [AirTable](https://airtable.com) - Works for handling user data, can be used as a database, send emails, take in infomation and hooks into everything. Much more readable then an SQL database. (Closed Source)
 
     **Related Resources:**
-    - [NocoDB](https://github.com/nocodb/nocodb) -  A Free & Self-hostable Airtable Alternative 
+    - [NocoDB](https://github.com/nocodb/nocodb) -  A Free & Self-hostable Airtable Alternative
+
+## Red Cross Linux Setup
+For my [Eagle Scout Project](https://stem.rathhacks.tech), I receved 30+ Laptops from the America Red Cross, and to give them away at my event to the kids/attendee's, I installed the following on the laptops to make them function on there low 1–3GB DDR3 Ram and i-3—i-5 processers from 2012.
+- [OS: Lubuntu](https://lubuntu.me/) - Lubuntu is an official, lightweight, and fast Ubuntu Linux distribution that uses the LXQt desktop environment instead of the heavier GNOME interface.
+- [Browser: Min](https://minbrowser.org/) - Min is an open-source, lightweight web browser built with Electron (CSS and JavaScript) designed for speed, privacy, and minimalism.
+- [Disk Cloning: Clonezilla](https://clonezilla.org/) - Clonezilla is a free, open-source software suite designed for disk imaging, partition cloning, and bare-metal backup/recovery. It enables users to copy entire disks or specific partitions, supporting various operating systems (Windows, Linux, macOS) and file systems.
