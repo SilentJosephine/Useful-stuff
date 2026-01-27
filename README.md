@@ -10,6 +10,8 @@ A collection of useful tools and projects I've found.
 - [prowlarr](https://prowlarr.com) - Indexer manager/proxy
 - [Jackett](https://github.com/Jackett/Jackett) - Another Indexer/proxy
 - [Servarr](https://wiki.servarr.com) - consolidated wiki for Lidarr, Prowlarr, Radarr, Readarr, Sonarr, and Whisparr
+- [Pihole](https://pi-hole.net) - Network wide adblocker
+- [Adguard](https://adguard.com/en/welcome.html) - Another adblocker/dns etc
 
 ## Software
 - [Obsidian](https://obsidian.md/) - Note-taking with linked notes (Closed Source)
