@@ -35,6 +35,7 @@ A collection of useful tools and projects I've found.
 - [TuxMate](https://tuxmate.com) - Linux Bulk App Installer
 - [Mas](https://github.com/massgravel/Microsoft-Activation-Scripts) - About
 Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- [Yt-Dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ### Windows Debloat Script
 - https://megsystem.github.io/DebloaterTool/
